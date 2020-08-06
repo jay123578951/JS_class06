@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <h2>單一產品頁面</h2>
-    <!-- <h3>{{ product.title }}</h3> -->
-    <!-- <p>{{ product.description }}</p> -->
+    <h3>{{ product.title }}</h3>
+    <p>{{ product.description }}</p>
   </div>
 </template>
 
